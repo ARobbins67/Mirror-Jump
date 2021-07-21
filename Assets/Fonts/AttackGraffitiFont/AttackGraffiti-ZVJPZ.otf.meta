@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 329579a8f34d4f342bc4e1ee12299de1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - a Attack Graffiti
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 703667f6cd7b7b34a877bcccefa275fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
